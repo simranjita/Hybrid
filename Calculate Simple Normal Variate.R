@@ -1,4 +1,4 @@
-dataset <- read.csv(file="E:\LUCAS.SOIL_corr.Rdata\LUCAS_wo_artifacts.csv", header=FALSE, sep=",")
+dataset <- read.csv(file="E:\\sg_spectral", header=FALSE, sep=",")
 
 library(inspectr)
  
